@@ -4,7 +4,7 @@
 
 # dependencies
 first-app/node_modules
-react-complete-guide-code/code/edited-first-app/node_modules
+code/edited-first-app/node_modules
 /.pnp
 .pnp.js
 
