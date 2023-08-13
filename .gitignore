@@ -5,6 +5,7 @@
 # dependencies
 first-app/node_modules
 code/edited-first-app/node_modules
+code/react-vs-vanilla-js-example/node_modules
 /.pnp
 .pnp.js
 
